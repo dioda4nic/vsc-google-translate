@@ -1,3 +1,5 @@
 // Place your settings in this file to overwrite default and user settings.
 {
+    "google-translate.firstLanguage": "ru-ru",
+    "google-translate.serverDomain": "https://translate.google.ru"
 }
